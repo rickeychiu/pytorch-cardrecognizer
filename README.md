@@ -32,7 +32,7 @@ The model architecture uses:
 ---
 
 ## Training
-- This is trained on a public cards dataset on Kaggle, you can access it at the link [here](https://www.kaggle.com/datasets/surajguru/playing-card-dataset).
+- This is trained on a public cards dataset on Kaggle.
 - It is also possible to substitute a new dataset if you would like.
 
 # 🇯🇵 PyTorch カード識別器
@@ -65,7 +65,7 @@ The model architecture uses:
 
 ## 学習について
 
-- このモデルは Kaggle に公開されているトランプ画像データセットを用いて学習されました。データセットは[こちら](https://www.kaggle.com/datasets/surajguru/playing-card-dataset)から取得できます。
+- このモデルは Kaggle に公開されているトランプ画像データセットを用いて学習されました。
 - データセットを入れ替えることで、他の画像分類タスクにも応用可能です。
 
 # Data Visualization (データ可視化)
